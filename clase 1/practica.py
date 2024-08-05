@@ -1,3 +1,5 @@
 
-print("Hola mundo, bienvenido a la Diplomatura en Python")
 
+nombre = input("Cual es tu nombre?")
+
+print(f"Mi nombre es: {nombre}")
